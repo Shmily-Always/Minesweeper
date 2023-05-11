@@ -1,4 +1,4 @@
-# -
-A classical game on windows
-My first program
-I'll update later
+# Minesweeper
+很简单的一个扫雷，纯手工打印菜单/通关/失败界面。  
+回头看看是依托答辩，但是很有趣，大概算是我人生中第一个游戏？是大一那会做的。  
+感觉还是有一点点纪念意义的，所以把它放出来。  
